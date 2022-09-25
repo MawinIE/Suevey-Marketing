@@ -1,0 +1,235 @@
+manufacturer,model,displ,year,cyl,trans,drv,cty,hwy,fl,class,cty_kml,hwy_kml,tran_am
+audi,a4,1.8,1999,4,auto(l5),f,18,29,p,compact,7.652586726,12.3291675,a
+audi,a4,1.8,1999,4,manual(m5),f,21,29,p,compact,8.928017847,12.3291675,m
+audi,a4,2,2008,4,manual(m6),f,20,31,p,compact,8.50287414,13.17945492,m
+audi,a4,2,2008,4,auto(av),f,21,30,p,compact,8.928017847,12.75431121,a
+audi,a4,2.8,1999,6,auto(l5),f,16,26,p,compact,6.802299312,11.05373638,a
+audi,a4,2.8,1999,6,manual(m5),f,18,26,p,compact,7.652586726,11.05373638,m
+audi,a4,3.1,2008,6,auto(av),f,18,27,p,compact,7.652586726,11.47888009,a
+audi,a4 quattro,1.8,1999,4,manual(m5),4,18,26,p,compact,7.652586726,11.05373638,m
+audi,a4 quattro,1.8,1999,4,auto(l5),4,16,25,p,compact,6.802299312,10.62859268,a
+audi,a4 quattro,2,2008,4,manual(m6),4,20,28,p,compact,8.50287414,11.9040238,m
+audi,a4 quattro,2,2008,4,auto(s6),4,19,27,p,compact,8.077730433,11.47888009,a
+audi,a4 quattro,2.8,1999,6,auto(l5),4,15,25,p,compact,6.377155605,10.62859268,a
+audi,a4 quattro,2.8,1999,6,manual(m5),4,17,25,p,compact,7.227443019,10.62859268,m
+audi,a4 quattro,3.1,2008,6,auto(s6),4,17,25,p,compact,7.227443019,10.62859268,a
+audi,a4 quattro,3.1,2008,6,manual(m6),4,15,25,p,compact,6.377155605,10.62859268,m
+audi,a6 quattro,2.8,1999,6,auto(l5),4,15,24,p,midsize,6.377155605,10.20344897,a
+audi,a6 quattro,3.1,2008,6,auto(s6),4,17,25,p,midsize,7.227443019,10.62859268,a
+audi,a6 quattro,4.2,2008,8,auto(s6),4,16,23,p,midsize,6.802299312,9.778305261,a
+chevrolet,c1500 suburban 2wd,5.3,2008,8,auto(l4),r,14,20,r,suv,5.952011898,8.50287414,a
+chevrolet,c1500 suburban 2wd,5.3,2008,8,auto(l4),r,11,15,e,suv,4.676580777,6.377155605,a
+chevrolet,c1500 suburban 2wd,5.3,2008,8,auto(l4),r,14,20,r,suv,5.952011898,8.50287414,a
+chevrolet,c1500 suburban 2wd,5.7,1999,8,auto(l4),r,13,17,r,suv,5.526868191,7.227443019,a
+chevrolet,c1500 suburban 2wd,6,2008,8,auto(l4),r,12,17,r,suv,5.101724484,7.227443019,a
+chevrolet,corvette,5.7,1999,8,manual(m6),r,16,26,p,2seater,6.802299312,11.05373638,m
+chevrolet,corvette,5.7,1999,8,auto(l4),r,15,23,p,2seater,6.377155605,9.778305261,a
+chevrolet,corvette,6.2,2008,8,manual(m6),r,16,26,p,2seater,6.802299312,11.05373638,m
+chevrolet,corvette,6.2,2008,8,auto(s6),r,15,25,p,2seater,6.377155605,10.62859268,a
+chevrolet,corvette,7,2008,8,manual(m6),r,15,24,p,2seater,6.377155605,10.20344897,m
+chevrolet,k1500 tahoe 4wd,5.3,2008,8,auto(l4),4,14,19,r,suv,5.952011898,8.077730433,a
+chevrolet,k1500 tahoe 4wd,5.3,2008,8,auto(l4),4,11,14,e,suv,4.676580777,5.952011898,a
+chevrolet,k1500 tahoe 4wd,5.7,1999,8,auto(l4),4,11,15,r,suv,4.676580777,6.377155605,a
+chevrolet,k1500 tahoe 4wd,6.5,1999,8,auto(l4),4,14,17,d,suv,5.952011898,7.227443019,a
+chevrolet,malibu,2.4,1999,4,auto(l4),f,19,27,r,midsize,8.077730433,11.47888009,a
+chevrolet,malibu,2.4,2008,4,auto(l4),f,22,30,r,midsize,9.353161554,12.75431121,a
+chevrolet,malibu,3.1,1999,6,auto(l4),f,18,26,r,midsize,7.652586726,11.05373638,a
+chevrolet,malibu,3.5,2008,6,auto(l4),f,18,29,r,midsize,7.652586726,12.3291675,a
+chevrolet,malibu,3.6,2008,6,auto(s6),f,17,26,r,midsize,7.227443019,11.05373638,a
+dodge,caravan 2wd,2.4,1999,4,auto(l3),f,18,24,r,minivan,7.652586726,10.20344897,a
+dodge,caravan 2wd,3,1999,6,auto(l4),f,17,24,r,minivan,7.227443019,10.20344897,a
+dodge,caravan 2wd,3.3,1999,6,auto(l4),f,16,22,r,minivan,6.802299312,9.353161554,a
+dodge,caravan 2wd,3.3,1999,6,auto(l4),f,16,22,r,minivan,6.802299312,9.353161554,a
+dodge,caravan 2wd,3.3,2008,6,auto(l4),f,17,24,r,minivan,7.227443019,10.20344897,a
+dodge,caravan 2wd,3.3,2008,6,auto(l4),f,17,24,r,minivan,7.227443019,10.20344897,a
+dodge,caravan 2wd,3.3,2008,6,auto(l4),f,11,17,e,minivan,4.676580777,7.227443019,a
+dodge,caravan 2wd,3.8,1999,6,auto(l4),f,15,22,r,minivan,6.377155605,9.353161554,a
+dodge,caravan 2wd,3.8,1999,6,auto(l4),f,15,21,r,minivan,6.377155605,8.928017847,a
+dodge,caravan 2wd,3.8,2008,6,auto(l6),f,16,23,r,minivan,6.802299312,9.778305261,a
+dodge,caravan 2wd,4,2008,6,auto(l6),f,16,23,r,minivan,6.802299312,9.778305261,a
+dodge,dakota pickup 4wd,3.7,2008,6,manual(m6),4,15,19,r,pickup,6.377155605,8.077730433,m
+dodge,dakota pickup 4wd,3.7,2008,6,auto(l4),4,14,18,r,pickup,5.952011898,7.652586726,a
+dodge,dakota pickup 4wd,3.9,1999,6,auto(l4),4,13,17,r,pickup,5.526868191,7.227443019,a
+dodge,dakota pickup 4wd,3.9,1999,6,manual(m5),4,14,17,r,pickup,5.952011898,7.227443019,m
+dodge,dakota pickup 4wd,4.7,2008,8,auto(l5),4,14,19,r,pickup,5.952011898,8.077730433,a
+dodge,dakota pickup 4wd,4.7,2008,8,auto(l5),4,14,19,r,pickup,5.952011898,8.077730433,a
+dodge,dakota pickup 4wd,4.7,2008,8,auto(l5),4,9,12,e,pickup,3.826293363,5.101724484,a
+dodge,dakota pickup 4wd,5.2,1999,8,manual(m5),4,11,17,r,pickup,4.676580777,7.227443019,m
+dodge,dakota pickup 4wd,5.2,1999,8,auto(l4),4,11,15,r,pickup,4.676580777,6.377155605,a
+dodge,durango 4wd,3.9,1999,6,auto(l4),4,13,17,r,suv,5.526868191,7.227443019,a
+dodge,durango 4wd,4.7,2008,8,auto(l5),4,13,17,r,suv,5.526868191,7.227443019,a
+dodge,durango 4wd,4.7,2008,8,auto(l5),4,9,12,e,suv,3.826293363,5.101724484,a
+dodge,durango 4wd,4.7,2008,8,auto(l5),4,13,17,r,suv,5.526868191,7.227443019,a
+dodge,durango 4wd,5.2,1999,8,auto(l4),4,11,16,r,suv,4.676580777,6.802299312,a
+dodge,durango 4wd,5.7,2008,8,auto(l5),4,13,18,r,suv,5.526868191,7.652586726,a
+dodge,durango 4wd,5.9,1999,8,auto(l4),4,11,15,r,suv,4.676580777,6.377155605,a
+dodge,ram 1500 pickup 4wd,4.7,2008,8,manual(m6),4,12,16,r,pickup,5.101724484,6.802299312,m
+dodge,ram 1500 pickup 4wd,4.7,2008,8,auto(l5),4,9,12,e,pickup,3.826293363,5.101724484,a
+dodge,ram 1500 pickup 4wd,4.7,2008,8,auto(l5),4,13,17,r,pickup,5.526868191,7.227443019,a
+dodge,ram 1500 pickup 4wd,4.7,2008,8,auto(l5),4,13,17,r,pickup,5.526868191,7.227443019,a
+dodge,ram 1500 pickup 4wd,4.7,2008,8,manual(m6),4,12,16,r,pickup,5.101724484,6.802299312,m
+dodge,ram 1500 pickup 4wd,4.7,2008,8,manual(m6),4,9,12,e,pickup,3.826293363,5.101724484,m
+dodge,ram 1500 pickup 4wd,5.2,1999,8,auto(l4),4,11,15,r,pickup,4.676580777,6.377155605,a
+dodge,ram 1500 pickup 4wd,5.2,1999,8,manual(m5),4,11,16,r,pickup,4.676580777,6.802299312,m
+dodge,ram 1500 pickup 4wd,5.7,2008,8,auto(l5),4,13,17,r,pickup,5.526868191,7.227443019,a
+dodge,ram 1500 pickup 4wd,5.9,1999,8,auto(l4),4,11,15,r,pickup,4.676580777,6.377155605,a
+ford,expedition 2wd,4.6,1999,8,auto(l4),r,11,17,r,suv,4.676580777,7.227443019,a
+ford,expedition 2wd,5.4,1999,8,auto(l4),r,11,17,r,suv,4.676580777,7.227443019,a
+ford,expedition 2wd,5.4,2008,8,auto(l6),r,12,18,r,suv,5.101724484,7.652586726,a
+ford,explorer 4wd,4,1999,6,auto(l5),4,14,17,r,suv,5.952011898,7.227443019,a
+ford,explorer 4wd,4,1999,6,manual(m5),4,15,19,r,suv,6.377155605,8.077730433,m
+ford,explorer 4wd,4,1999,6,auto(l5),4,14,17,r,suv,5.952011898,7.227443019,a
+ford,explorer 4wd,4,2008,6,auto(l5),4,13,19,r,suv,5.526868191,8.077730433,a
+ford,explorer 4wd,4.6,2008,8,auto(l6),4,13,19,r,suv,5.526868191,8.077730433,a
+ford,explorer 4wd,5,1999,8,auto(l4),4,13,17,r,suv,5.526868191,7.227443019,a
+ford,f150 pickup 4wd,4.2,1999,6,auto(l4),4,14,17,r,pickup,5.952011898,7.227443019,a
+ford,f150 pickup 4wd,4.2,1999,6,manual(m5),4,14,17,r,pickup,5.952011898,7.227443019,m
+ford,f150 pickup 4wd,4.6,1999,8,manual(m5),4,13,16,r,pickup,5.526868191,6.802299312,m
+ford,f150 pickup 4wd,4.6,1999,8,auto(l4),4,13,16,r,pickup,5.526868191,6.802299312,a
+ford,f150 pickup 4wd,4.6,2008,8,auto(l4),4,13,17,r,pickup,5.526868191,7.227443019,a
+ford,f150 pickup 4wd,5.4,1999,8,auto(l4),4,11,15,r,pickup,4.676580777,6.377155605,a
+ford,f150 pickup 4wd,5.4,2008,8,auto(l4),4,13,17,r,pickup,5.526868191,7.227443019,a
+ford,mustang,3.8,1999,6,manual(m5),r,18,26,r,subcompact,7.652586726,11.05373638,m
+ford,mustang,3.8,1999,6,auto(l4),r,18,25,r,subcompact,7.652586726,10.62859268,a
+ford,mustang,4,2008,6,manual(m5),r,17,26,r,subcompact,7.227443019,11.05373638,m
+ford,mustang,4,2008,6,auto(l5),r,16,24,r,subcompact,6.802299312,10.20344897,a
+ford,mustang,4.6,1999,8,auto(l4),r,15,21,r,subcompact,6.377155605,8.928017847,a
+ford,mustang,4.6,1999,8,manual(m5),r,15,22,r,subcompact,6.377155605,9.353161554,m
+ford,mustang,4.6,2008,8,manual(m5),r,15,23,r,subcompact,6.377155605,9.778305261,m
+ford,mustang,4.6,2008,8,auto(l5),r,15,22,r,subcompact,6.377155605,9.353161554,a
+ford,mustang,5.4,2008,8,manual(m6),r,14,20,p,subcompact,5.952011898,8.50287414,m
+honda,civic,1.6,1999,4,manual(m5),f,28,33,r,subcompact,11.9040238,14.02974233,m
+honda,civic,1.6,1999,4,auto(l4),f,24,32,r,subcompact,10.20344897,13.60459862,a
+honda,civic,1.6,1999,4,manual(m5),f,25,32,r,subcompact,10.62859268,13.60459862,m
+honda,civic,1.6,1999,4,manual(m5),f,23,29,p,subcompact,9.778305261,12.3291675,m
+honda,civic,1.6,1999,4,auto(l4),f,24,32,r,subcompact,10.20344897,13.60459862,a
+honda,civic,1.8,2008,4,manual(m5),f,26,34,r,subcompact,11.05373638,14.45488604,m
+honda,civic,1.8,2008,4,auto(l5),f,25,36,r,subcompact,10.62859268,15.30517345,a
+honda,civic,1.8,2008,4,auto(l5),f,24,36,c,subcompact,10.20344897,15.30517345,a
+honda,civic,2,2008,4,manual(m6),f,21,29,p,subcompact,8.928017847,12.3291675,m
+hyundai,sonata,2.4,1999,4,auto(l4),f,18,26,r,midsize,7.652586726,11.05373638,a
+hyundai,sonata,2.4,1999,4,manual(m5),f,18,27,r,midsize,7.652586726,11.47888009,m
+hyundai,sonata,2.4,2008,4,auto(l4),f,21,30,r,midsize,8.928017847,12.75431121,a
+hyundai,sonata,2.4,2008,4,manual(m5),f,21,31,r,midsize,8.928017847,13.17945492,m
+hyundai,sonata,2.5,1999,6,auto(l4),f,18,26,r,midsize,7.652586726,11.05373638,a
+hyundai,sonata,2.5,1999,6,manual(m5),f,18,26,r,midsize,7.652586726,11.05373638,m
+hyundai,sonata,3.3,2008,6,auto(l5),f,19,28,r,midsize,8.077730433,11.9040238,a
+hyundai,tiburon,2,1999,4,auto(l4),f,19,26,r,subcompact,8.077730433,11.05373638,a
+hyundai,tiburon,2,1999,4,manual(m5),f,19,29,r,subcompact,8.077730433,12.3291675,m
+hyundai,tiburon,2,2008,4,manual(m5),f,20,28,r,subcompact,8.50287414,11.9040238,m
+hyundai,tiburon,2,2008,4,auto(l4),f,20,27,r,subcompact,8.50287414,11.47888009,a
+hyundai,tiburon,2.7,2008,6,auto(l4),f,17,24,r,subcompact,7.227443019,10.20344897,a
+hyundai,tiburon,2.7,2008,6,manual(m6),f,16,24,r,subcompact,6.802299312,10.20344897,m
+hyundai,tiburon,2.7,2008,6,manual(m5),f,17,24,r,subcompact,7.227443019,10.20344897,m
+jeep,grand cherokee 4wd,3,2008,6,auto(l5),4,17,22,d,suv,7.227443019,9.353161554,a
+jeep,grand cherokee 4wd,3.7,2008,6,auto(l5),4,15,19,r,suv,6.377155605,8.077730433,a
+jeep,grand cherokee 4wd,4,1999,6,auto(l4),4,15,20,r,suv,6.377155605,8.50287414,a
+jeep,grand cherokee 4wd,4.7,1999,8,auto(l4),4,14,17,r,suv,5.952011898,7.227443019,a
+jeep,grand cherokee 4wd,4.7,2008,8,auto(l5),4,9,12,e,suv,3.826293363,5.101724484,a
+jeep,grand cherokee 4wd,4.7,2008,8,auto(l5),4,14,19,r,suv,5.952011898,8.077730433,a
+jeep,grand cherokee 4wd,5.7,2008,8,auto(l5),4,13,18,r,suv,5.526868191,7.652586726,a
+jeep,grand cherokee 4wd,6.1,2008,8,auto(l5),4,11,14,p,suv,4.676580777,5.952011898,a
+land rover,range rover,4,1999,8,auto(l4),4,11,15,p,suv,4.676580777,6.377155605,a
+land rover,range rover,4.2,2008,8,auto(s6),4,12,18,r,suv,5.101724484,7.652586726,a
+land rover,range rover,4.4,2008,8,auto(s6),4,12,18,r,suv,5.101724484,7.652586726,a
+land rover,range rover,4.6,1999,8,auto(l4),4,11,15,p,suv,4.676580777,6.377155605,a
+lincoln,navigator 2wd,5.4,1999,8,auto(l4),r,11,17,r,suv,4.676580777,7.227443019,a
+lincoln,navigator 2wd,5.4,1999,8,auto(l4),r,11,16,p,suv,4.676580777,6.802299312,a
+lincoln,navigator 2wd,5.4,2008,8,auto(l6),r,12,18,r,suv,5.101724484,7.652586726,a
+mercury,mountaineer 4wd,4,1999,6,auto(l5),4,14,17,r,suv,5.952011898,7.227443019,a
+mercury,mountaineer 4wd,4,2008,6,auto(l5),4,13,19,r,suv,5.526868191,8.077730433,a
+mercury,mountaineer 4wd,4.6,2008,8,auto(l6),4,13,19,r,suv,5.526868191,8.077730433,a
+mercury,mountaineer 4wd,5,1999,8,auto(l4),4,13,17,r,suv,5.526868191,7.227443019,a
+nissan,altima,2.4,1999,4,manual(m5),f,21,29,r,compact,8.928017847,12.3291675,m
+nissan,altima,2.4,1999,4,auto(l4),f,19,27,r,compact,8.077730433,11.47888009,a
+nissan,altima,2.5,2008,4,auto(av),f,23,31,r,midsize,9.778305261,13.17945492,a
+nissan,altima,2.5,2008,4,manual(m6),f,23,32,r,midsize,9.778305261,13.60459862,m
+nissan,altima,3.5,2008,6,manual(m6),f,19,27,p,midsize,8.077730433,11.47888009,m
+nissan,altima,3.5,2008,6,auto(av),f,19,26,p,midsize,8.077730433,11.05373638,a
+nissan,maxima,3,1999,6,auto(l4),f,18,26,r,midsize,7.652586726,11.05373638,a
+nissan,maxima,3,1999,6,manual(m5),f,19,25,r,midsize,8.077730433,10.62859268,m
+nissan,maxima,3.5,2008,6,auto(av),f,19,25,p,midsize,8.077730433,10.62859268,a
+nissan,pathfinder 4wd,3.3,1999,6,auto(l4),4,14,17,r,suv,5.952011898,7.227443019,a
+nissan,pathfinder 4wd,3.3,1999,6,manual(m5),4,15,17,r,suv,6.377155605,7.227443019,m
+nissan,pathfinder 4wd,4,2008,6,auto(l5),4,14,20,p,suv,5.952011898,8.50287414,a
+nissan,pathfinder 4wd,5.6,2008,8,auto(s5),4,12,18,p,suv,5.101724484,7.652586726,a
+pontiac,grand prix,3.1,1999,6,auto(l4),f,18,26,r,midsize,7.652586726,11.05373638,a
+pontiac,grand prix,3.8,1999,6,auto(l4),f,16,26,p,midsize,6.802299312,11.05373638,a
+pontiac,grand prix,3.8,1999,6,auto(l4),f,17,27,r,midsize,7.227443019,11.47888009,a
+pontiac,grand prix,3.8,2008,6,auto(l4),f,18,28,r,midsize,7.652586726,11.9040238,a
+pontiac,grand prix,5.3,2008,8,auto(s4),f,16,25,p,midsize,6.802299312,10.62859268,a
+subaru,forester awd,2.5,1999,4,manual(m5),4,18,25,r,suv,7.652586726,10.62859268,m
+subaru,forester awd,2.5,1999,4,auto(l4),4,18,24,r,suv,7.652586726,10.20344897,a
+subaru,forester awd,2.5,2008,4,manual(m5),4,20,27,r,suv,8.50287414,11.47888009,m
+subaru,forester awd,2.5,2008,4,manual(m5),4,19,25,p,suv,8.077730433,10.62859268,m
+subaru,forester awd,2.5,2008,4,auto(l4),4,20,26,r,suv,8.50287414,11.05373638,a
+subaru,forester awd,2.5,2008,4,auto(l4),4,18,23,p,suv,7.652586726,9.778305261,a
+subaru,impreza awd,2.2,1999,4,auto(l4),4,21,26,r,subcompact,8.928017847,11.05373638,a
+subaru,impreza awd,2.2,1999,4,manual(m5),4,19,26,r,subcompact,8.077730433,11.05373638,m
+subaru,impreza awd,2.5,1999,4,manual(m5),4,19,26,r,subcompact,8.077730433,11.05373638,m
+subaru,impreza awd,2.5,1999,4,auto(l4),4,19,26,r,subcompact,8.077730433,11.05373638,a
+subaru,impreza awd,2.5,2008,4,auto(s4),4,20,25,p,compact,8.50287414,10.62859268,a
+subaru,impreza awd,2.5,2008,4,auto(s4),4,20,27,r,compact,8.50287414,11.47888009,a
+subaru,impreza awd,2.5,2008,4,manual(m5),4,19,25,p,compact,8.077730433,10.62859268,m
+subaru,impreza awd,2.5,2008,4,manual(m5),4,20,27,r,compact,8.50287414,11.47888009,m
+toyota,4runner 4wd,2.7,1999,4,manual(m5),4,15,20,r,suv,6.377155605,8.50287414,m
+toyota,4runner 4wd,2.7,1999,4,auto(l4),4,16,20,r,suv,6.802299312,8.50287414,a
+toyota,4runner 4wd,3.4,1999,6,auto(l4),4,15,19,r,suv,6.377155605,8.077730433,a
+toyota,4runner 4wd,3.4,1999,6,manual(m5),4,15,17,r,suv,6.377155605,7.227443019,m
+toyota,4runner 4wd,4,2008,6,auto(l5),4,16,20,r,suv,6.802299312,8.50287414,a
+toyota,4runner 4wd,4.7,2008,8,auto(l5),4,14,17,r,suv,5.952011898,7.227443019,a
+toyota,camry,2.2,1999,4,manual(m5),f,21,29,r,midsize,8.928017847,12.3291675,m
+toyota,camry,2.2,1999,4,auto(l4),f,21,27,r,midsize,8.928017847,11.47888009,a
+toyota,camry,2.4,2008,4,manual(m5),f,21,31,r,midsize,8.928017847,13.17945492,m
+toyota,camry,2.4,2008,4,auto(l5),f,21,31,r,midsize,8.928017847,13.17945492,a
+toyota,camry,3,1999,6,auto(l4),f,18,26,r,midsize,7.652586726,11.05373638,a
+toyota,camry,3,1999,6,manual(m5),f,18,26,r,midsize,7.652586726,11.05373638,m
+toyota,camry,3.5,2008,6,auto(s6),f,19,28,r,midsize,8.077730433,11.9040238,a
+toyota,camry solara,2.2,1999,4,auto(l4),f,21,27,r,compact,8.928017847,11.47888009,a
+toyota,camry solara,2.2,1999,4,manual(m5),f,21,29,r,compact,8.928017847,12.3291675,m
+toyota,camry solara,2.4,2008,4,manual(m5),f,21,31,r,compact,8.928017847,13.17945492,m
+toyota,camry solara,2.4,2008,4,auto(s5),f,22,31,r,compact,9.353161554,13.17945492,a
+toyota,camry solara,3,1999,6,auto(l4),f,18,26,r,compact,7.652586726,11.05373638,a
+toyota,camry solara,3,1999,6,manual(m5),f,18,26,r,compact,7.652586726,11.05373638,m
+toyota,camry solara,3.3,2008,6,auto(s5),f,18,27,r,compact,7.652586726,11.47888009,a
+toyota,corolla,1.8,1999,4,auto(l3),f,24,30,r,compact,10.20344897,12.75431121,a
+toyota,corolla,1.8,1999,4,auto(l4),f,24,33,r,compact,10.20344897,14.02974233,a
+toyota,corolla,1.8,1999,4,manual(m5),f,26,35,r,compact,11.05373638,14.88002975,m
+toyota,corolla,1.8,2008,4,manual(m5),f,28,37,r,compact,11.9040238,15.73031716,m
+toyota,corolla,1.8,2008,4,auto(l4),f,26,35,r,compact,11.05373638,14.88002975,a
+toyota,land cruiser wagon 4wd,4.7,1999,8,auto(l4),4,11,15,r,suv,4.676580777,6.377155605,a
+toyota,land cruiser wagon 4wd,5.7,2008,8,auto(s6),4,13,18,r,suv,5.526868191,7.652586726,a
+toyota,toyota tacoma 4wd,2.7,1999,4,manual(m5),4,15,20,r,pickup,6.377155605,8.50287414,m
+toyota,toyota tacoma 4wd,2.7,1999,4,auto(l4),4,16,20,r,pickup,6.802299312,8.50287414,a
+toyota,toyota tacoma 4wd,2.7,2008,4,manual(m5),4,17,22,r,pickup,7.227443019,9.353161554,m
+toyota,toyota tacoma 4wd,3.4,1999,6,manual(m5),4,15,17,r,pickup,6.377155605,7.227443019,m
+toyota,toyota tacoma 4wd,3.4,1999,6,auto(l4),4,15,19,r,pickup,6.377155605,8.077730433,a
+toyota,toyota tacoma 4wd,4,2008,6,manual(m6),4,15,18,r,pickup,6.377155605,7.652586726,m
+toyota,toyota tacoma 4wd,4,2008,6,auto(l5),4,16,20,r,pickup,6.802299312,8.50287414,a
+volkswagen,gti,2,1999,4,manual(m5),f,21,29,r,compact,8.928017847,12.3291675,m
+volkswagen,gti,2,1999,4,auto(l4),f,19,26,r,compact,8.077730433,11.05373638,a
+volkswagen,gti,2,2008,4,manual(m6),f,21,29,p,compact,8.928017847,12.3291675,m
+volkswagen,gti,2,2008,4,auto(s6),f,22,29,p,compact,9.353161554,12.3291675,a
+volkswagen,gti,2.8,1999,6,manual(m5),f,17,24,r,compact,7.227443019,10.20344897,m
+volkswagen,jetta,1.9,1999,4,manual(m5),f,33,44,d,compact,14.02974233,18.70632311,m
+volkswagen,jetta,2,1999,4,manual(m5),f,21,29,r,compact,8.928017847,12.3291675,m
+volkswagen,jetta,2,1999,4,auto(l4),f,19,26,r,compact,8.077730433,11.05373638,a
+volkswagen,jetta,2,2008,4,auto(s6),f,22,29,p,compact,9.353161554,12.3291675,a
+volkswagen,jetta,2,2008,4,manual(m6),f,21,29,p,compact,8.928017847,12.3291675,m
+volkswagen,jetta,2.5,2008,5,auto(s6),f,21,29,r,compact,8.928017847,12.3291675,a
+volkswagen,jetta,2.5,2008,5,manual(m5),f,21,29,r,compact,8.928017847,12.3291675,m
+volkswagen,jetta,2.8,1999,6,auto(l4),f,16,23,r,compact,6.802299312,9.778305261,a
+volkswagen,jetta,2.8,1999,6,manual(m5),f,17,24,r,compact,7.227443019,10.20344897,m
+volkswagen,new beetle,1.9,1999,4,manual(m5),f,35,44,d,subcompact,14.88002975,18.70632311,m
+volkswagen,new beetle,1.9,1999,4,auto(l4),f,29,41,d,subcompact,12.3291675,17.43089199,a
+volkswagen,new beetle,2,1999,4,manual(m5),f,21,29,r,subcompact,8.928017847,12.3291675,m
+volkswagen,new beetle,2,1999,4,auto(l4),f,19,26,r,subcompact,8.077730433,11.05373638,a
+volkswagen,new beetle,2.5,2008,5,manual(m5),f,20,28,r,subcompact,8.50287414,11.9040238,m
+volkswagen,new beetle,2.5,2008,5,auto(s6),f,20,29,r,subcompact,8.50287414,12.3291675,a
+volkswagen,passat,1.8,1999,4,manual(m5),f,21,29,p,midsize,8.928017847,12.3291675,m
+volkswagen,passat,1.8,1999,4,auto(l5),f,18,29,p,midsize,7.652586726,12.3291675,a
+volkswagen,passat,2,2008,4,auto(s6),f,19,28,p,midsize,8.077730433,11.9040238,a
+volkswagen,passat,2,2008,4,manual(m6),f,21,29,p,midsize,8.928017847,12.3291675,m
+volkswagen,passat,2.8,1999,6,auto(l5),f,16,26,p,midsize,6.802299312,11.05373638,a
+volkswagen,passat,2.8,1999,6,manual(m5),f,18,26,p,midsize,7.652586726,11.05373638,m
+volkswagen,passat,3.6,2008,6,auto(s6),f,17,26,p,midsize,7.227443019,11.05373638,a
